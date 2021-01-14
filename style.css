@@ -1,0 +1,58 @@
+footer{
+    text-align:center;
+}
+.container .my-side-card-footer{
+    background:white;
+    border:0;
+    border-radius:1em;
+}
+.container .my-side-card{
+    background:;
+    border:0;
+    box-shadow:10px 10px 30px gray;
+    border-radius:1em;
+}
+.container .my-side-card-1{
+    background:white;
+    border:0;
+    box-shadow:10px 10px 25px gray;
+    border-radius:1em;
+    width:100%;
+} 
+.container .image-size{
+    justify-content:center;
+    align-items:center;
+    height:400px;
+}
+nav .logo{
+    width:220px;
+}
+.container .site-images{
+    border:0;
+    background:rgb(245, 240, 241);
+    margin:10px;
+    box-shadow:10px 10px 25px pink;
+    border-radius:1em;
+}
+.my-side-card-footer{
+    background:white;
+    border-radius:1em;
+    border:0;
+}
+.my-side-card{
+    border:0;
+    box-shadow:10px 10px 20px grey;
+}
+.my-side-card img{
+    width:250px;
+    padding:10px;
+    justify-content:center;
+    align-items:center;
+}
+.subscribe-button{
+    align-items:center;
+    justify-content:center;
+    border-radius:20px;
+    margin-left:35px;
+    margin-top:20px;
+}
